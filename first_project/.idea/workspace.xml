@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744dd5d3-6f43-4de0-a87b-c49e0cf8a53f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my_pr/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_pr/src/components/Profile/Myposts/MyPostsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_pr/src/redux/dialogs-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_pr/src/redux/redux-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_pr/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my_pr/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_pr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my_pr/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_pr/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my_pr/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_pr/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my_pr/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_pr/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my_pr/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my_pr" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Zr38Vn3UbZqJHKQP2FfZPRFeFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_pr/src/components/Dialogs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mypr\first_project\my_pr\src\components\Profile\Myposts" />
+      <recent name="D:\mypr\first_project\my_pr\src\components\Profile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mypr\first_project\my_pr\src\components\Dialogs" />
+      <recent name="D:\mypr\first_project\my_pr\src\components\Profile\Myposts\Post" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744dd5d3-6f43-4de0-a87b-c49e0cf8a53f" name="Default Changelist" comment="" />
+      <created>1585583226881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585583226881</updated>
+      <workItem from="1585583228245" duration="2863000" />
+      <workItem from="1585597770107" duration="3714000" />
+      <workItem from="1585663845604" duration="241000" />
+      <workItem from="1585758750802" duration="236000" />
+      <workItem from="1585762368532" duration="3647000" />
+      <workItem from="1585859246640" duration="1000" />
+      <workItem from="1586005026178" duration="1275000" />
+      <workItem from="1586020651171" duration="1211000" />
+      <workItem from="1586030272048" duration="2755000" />
+      <workItem from="1586037257306" duration="2331000" />
+      <workItem from="1586085382881" duration="3454000" />
+      <workItem from="1586095563625" duration="8797000" />
+      <workItem from="1586108433485" duration="28176000" />
+      <workItem from="1586365880363" duration="4892000" />
+      <workItem from="1586384849040" duration="8000" />
+      <workItem from="1586431722432" duration="3000" />
+      <workItem from="1586451793857" duration="3366000" />
+      <workItem from="1586528143839" duration="2000" />
+      <workItem from="1586532378326" duration="456000" />
+      <workItem from="1586533906865" duration="8000" />
+      <workItem from="1586602492340" duration="21954000" />
+      <workItem from="1586686025471" duration="2548000" />
+      <workItem from="1586717112973" duration="1207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#ESLint" timestamp="1586649579980">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#ESLint/0.0.1536.864@0.0.1536.864" timestamp="1586649579980" />
+    <state x="513" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586186038272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="513" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1586186038272" />
+    <state x="606" y="154" key="RollbackChangesDialog" timestamp="1586103122338">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="606" y="154" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1586103122338" />
+    <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586719269432">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1586719269432" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1586628335445">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1586628335445" />
+    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup" timestamp="1586643407493">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="85" width="672" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586643407493" />
+  </component>
+</project>
