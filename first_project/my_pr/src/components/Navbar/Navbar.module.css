@@ -1,0 +1,19 @@
+.nav{
+    grid-area: nav;
+    background-color: lightsteelblue;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.item a{
+    color:black;
+    text-decoration: none;
+}
+
+.item{
+    font-size: 20px;
+    padding: 5px;
+}
+
+.item a.active{
+    color:steelblue;
+}
