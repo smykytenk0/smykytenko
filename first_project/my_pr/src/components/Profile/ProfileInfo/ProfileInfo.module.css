@@ -1,0 +1,20 @@
+.avatar{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.background img{
+    width: 100%;
+    height: 200px;
+}
+
+.avaName{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.profileName{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}

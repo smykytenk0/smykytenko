@@ -1,0 +1,16 @@
+.app-wrapper{
+    display: grid;
+    grid-template-areas: 
+    "header header"
+    "nav content";
+    grid-template-columns: 1.2fr 8fr;
+    grid-template-rows: 50px 8fr;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 90vh;
+}
+
+.app-wrapper-content{
+    grid-area: content;
+    background-color: white;
+}
