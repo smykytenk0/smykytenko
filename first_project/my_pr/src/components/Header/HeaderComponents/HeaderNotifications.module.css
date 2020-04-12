@@ -1,0 +1,11 @@
+.headerNotification{
+    grid-area: notification;
+}
+
+.headerNotification img{
+    width:40px;
+    height: 40px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 50%;
+}

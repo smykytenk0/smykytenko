@@ -1,0 +1,21 @@
+.headerProfile{
+    grid-area: profile;
+}
+
+.headerProfile select{
+    width:200px;
+    height: 30px;
+    margin-top: 2.7%;
+    background-color: steelblue;
+}
+
+h3{
+    grid-area:profile;
+    margin-left: 0px;
+    margin-top: 10%;
+}
+
+.headerProfile option{
+    background-color: lightsteelblue;
+    font-size: 15px;
+}

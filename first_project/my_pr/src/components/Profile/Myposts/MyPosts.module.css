@@ -1,0 +1,10 @@
+.MyPosts{
+    padding: 20px;
+}
+
+.MyPosts textarea{
+    width: 500px;
+    height: 100px;
+    outline: none;
+    resize: none;
+}

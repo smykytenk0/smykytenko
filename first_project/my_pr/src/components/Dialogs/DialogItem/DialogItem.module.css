@@ -1,0 +1,30 @@
+.dialog{
+    display: grid;
+    grid-template-areas: "ava name";
+    grid-auto-columns: 1fr 5fr;
+    padding: 3px;
+
+}
+
+.dialog-Ava{
+    grid-area: ava;
+}
+
+.dialog-Name{
+    grid-area: name;
+}
+.dialog a.active{
+    color: steelblue;
+    text-decoration: none;
+}
+
+.dialog a{
+    text-decoration: none;
+    color: black;
+}
+
+.dialog img{
+    width:35px;
+    height: 35px;
+    border-radius: 50%;
+}

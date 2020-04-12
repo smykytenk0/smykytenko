@@ -1,0 +1,76 @@
+.header{
+    grid-area: header;
+    background-color: steelblue;
+    display: grid;
+    grid-template-areas: "logo search notification music profile";
+    grid-template-columns: 12fr 20fr 3fr 37fr 20fr;
+    color: white;
+}
+
+.header a{
+    color:white;
+}
+
+.headerLogo{
+    grid-area: logo;
+    padding-left: 30px;
+}
+
+.headerLogo img{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.headerSearch{
+    grid-area: search;
+    top:50%;
+}
+
+.headerSearch textarea{
+    border-radius: 20%;
+    width: 200px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+
+    
+}
+
+.headerNotification{
+    grid-area: notification;
+}
+
+.headerNotification img{
+    width:40px;
+    height: 40px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 50%;
+}
+
+.headerMusic{
+    grid-area: music;
+}
+
+.headerMusic img{
+    width:40px;
+    height: 40px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 50%;
+}
+
+.headerProfile{
+    grid-area: profile;
+}
+
+.headerProfile img{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
