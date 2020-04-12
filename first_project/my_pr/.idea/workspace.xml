@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/smykytenko" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1aSE3W7l0jPNwHnkG9FDH89cwUv" />
@@ -54,6 +54,7 @@
       <updated>1586720396098</updated>
       <workItem from="1586720422445" duration="756000" />
       <workItem from="1586721535273" duration="30000" />
+      <workItem from="1586722476533" duration="479000" />
     </task>
     <servers />
   </component>
@@ -62,5 +63,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1586722592687">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586722592687" />
   </component>
 </project>

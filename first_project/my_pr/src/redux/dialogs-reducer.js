@@ -14,7 +14,8 @@ let initialState = {
         { id: 9, name: "Yurko", img:"https://sun9-50.userapi.com/c637220/v637220838/3a85e/_jq2JBrE3Cc.jpg"},
         { id: 10, name: "Maksimka", img:"https://sun9-8.userapi.com/c639521/v639521802/415a9/qH5fPPk6YUk.jpg"},
         { id: 11, name: "Braslet", img:"https://sun9-52.userapi.com/c840623/v840623567/96745/3jt3uVQFRkg.jpg"},
-        { id: 12, name: "Pavlo", img:"https://sun9-26.userapi.com/c831408/v831408474/12b784/aIHLD3M6APU.jpg"}
+        { id: 12, name: "Pavlo", img:"https://sun9-26.userapi.com/c831408/v831408474/12b784/aIHLD3M6APU.jpg"},
+        { id: 12, name: "Dimas", img:"https://sun9-16.userapi.com/c621920/v621920769/36570/cgwUzGkFs1s.jpg"},
     ],
     messages: [
         { message: "HI" },
